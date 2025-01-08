@@ -1,4 +1,5 @@
 <img src="https://github.com/syifanurinayah/Hr-Dashboard/blob/main/HR%20ANALYSTIC.png" width="1290" height="522" />
+
 # Hr-Dashboard
 
 ## Ringkasan Utama
