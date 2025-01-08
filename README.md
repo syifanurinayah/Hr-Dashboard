@@ -51,3 +51,6 @@
    - Mengingat bidang ini memiliki attrition tertinggi, penting untuk mengevaluasi apakah ada gap antara ekspektasi karyawan dan kondisi aktual pekerjaan.
 5. Dukungan untuk Gender Tertentu (Perempuan)
    - Dengan tingkat attrition yang cukup tinggi di usia produktif, perusahaan dapat menciptakan kebijakan lebih fleksibel untuk mendukung perempuan, seperti jam kerja fleksibel atau program kepemimpinan khusus.
+
+### Portofolio
+[HR Dashboard](https://public.tableau.com/app/profile/syifanurinayah/viz/HrDashboard_16938016563820/HRANALYSTIC):
